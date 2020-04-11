@@ -18,3 +18,5 @@ Different device have Various folders ,named for their Battery
 Just Check if you have BAT0, BAT1, BAT2 and make changes accordingly.
 
 Also while searching inside BAT folder Check (any name here)_now and (any name here)_full and edit the same in the code.
+
+If u want to run this script Automatically , put it in the crontab.

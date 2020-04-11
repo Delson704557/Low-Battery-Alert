@@ -14,10 +14,10 @@ git clone https://github.com/Delson704557/Low-Battery-Alert
 ~~~
 pip install playsound;pip install notify2
 ~~~
-or
+   ####  or
 ~~~
  pip3 install playsound;pip3 install notify2
-~~~
+ ~~~
 ~~~
 chmod 777 battery.py
 ~~~

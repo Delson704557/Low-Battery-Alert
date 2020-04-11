@@ -12,6 +12,10 @@ git clone https://github.com/Delson704557/Low-Battery-Alert
 
 pip install playsound or pip3 install playsound
 
+pip install notify2 or pip3 install notify2
+
+
+
 
 Different device have Various folders ,named for their Battery 
 

@@ -12,12 +12,18 @@ If you want to make changes and Improvise it, please go ahead.
 git clone https://github.com/Delson704557/Low-Battery-Alert
 ~~~
 ~~~
-pip install playsound or pip3 install playsound
+pip install playsound;pip install notify2
+~~~
+or
+~~~
+ pip3 install playsound;pip3 install notify2
 ~~~
 ~~~
-pip install notify2 or pip3 install notify2
+chmod 777 battery.py
 ~~~
-
+~~~
+./battery.py
+~~~
 
 
 1.)Different device have Various folders ,named for their Battery 

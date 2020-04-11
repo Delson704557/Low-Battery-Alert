@@ -10,6 +10,9 @@ If you want to make changes and Improvise it, please go ahead.
 # USAGE
 git clone https://github.com/Delson704557/Low-Battery-Alert
 
+pip install playsound or pip3 install playsound
+
+
 Different device have Various folders ,named for their Battery 
 
 Just Check if you have BAT0, BAT1, BAT2 and make changes accordingly.

@@ -32,4 +32,6 @@ chmod 777 battery.py
 
 3.)Also while searching inside BAT folder Check (any name here)_now and (any name here)_full and edit the same in the code.
 
-4.)If u want to run this script Automatically , put it in the crontab.
+4.)If you run this script in python3 do the change in the code put "#!/usr/bin/python3" instead of "#!/usr/bin/python"
+
+5.)If you want to run this script Automatically when you start the system , put it in the crontab.

@@ -20,5 +20,5 @@ while flag:
 			notify2.init('critical')
 			n = notify2.Notification('Kindly put it on Charge' , 'CRITICAL BATTERY  ' + str(battery) + '%')
 			n.show()
-			playsound('/root/Desktop/battery/battery.mp3')
+			playsound('battery.mp3')
 

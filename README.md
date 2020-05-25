@@ -19,7 +19,7 @@ pip install playsound;pip install notify2
  pip3 install playsound;pip3 install notify2
  ~~~
 ~~~
-chmod 777 battery.py
+chmod +x battery.py
 ~~~
 ~~~
 ./battery.py

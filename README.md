@@ -1,4 +1,5 @@
 # Low-Battery-Alert
+## Only for Linux Based Systems
 The Script notifies you if you have the Low Battery and Alerts you.
 
 Code is really Messy.
